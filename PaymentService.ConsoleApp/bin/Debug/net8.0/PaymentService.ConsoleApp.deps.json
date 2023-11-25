@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PaymentService.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "PaymentService": "1.0.0"
+        },
+        "runtime": {
+          "PaymentService.ConsoleApp.dll": {}
+        }
+      },
+      "PaymentService/1.0.0": {
+        "runtime": {
+          "PaymentService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaymentService.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaymentService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
