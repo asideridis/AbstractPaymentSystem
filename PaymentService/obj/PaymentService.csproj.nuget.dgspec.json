@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService/PaymentService.csproj": {}
+    "/Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService/PaymentService.csproj": {}
   },
   "projects": {
-    "/Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService/PaymentService.csproj": {
+    "/Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService/PaymentService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService/PaymentService.csproj",
+        "projectUniqueName": "/Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService/PaymentService.csproj",
         "projectName": "PaymentService",
-        "projectPath": "/Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService/PaymentService.csproj",
+        "projectPath": "/Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService/PaymentService.csproj",
         "packagesPath": "/Users/sidemac/.nuget/packages/",
-        "outputPath": "/Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService/obj/",
+        "outputPath": "/Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sidemac/.nuget/NuGet/NuGet.Config"

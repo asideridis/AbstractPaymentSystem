@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PaymentService.ConsoleApp
-build_property.ProjectDir = /Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService.ConsoleApp/
+build_property.ProjectDir = /Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService.ConsoleApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

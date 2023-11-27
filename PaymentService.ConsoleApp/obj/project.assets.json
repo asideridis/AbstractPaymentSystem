@@ -35,11 +35,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService.ConsoleApp/PaymentService.ConsoleApp.csproj",
+      "projectUniqueName": "/Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService.ConsoleApp/PaymentService.ConsoleApp.csproj",
       "projectName": "PaymentService.ConsoleApp",
-      "projectPath": "/Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService.ConsoleApp/PaymentService.ConsoleApp.csproj",
+      "projectPath": "/Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService.ConsoleApp/PaymentService.ConsoleApp.csproj",
       "packagesPath": "/Users/sidemac/.nuget/packages/",
-      "outputPath": "/Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService.ConsoleApp/obj/",
+      "outputPath": "/Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService.ConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sidemac/.nuget/NuGet/NuGet.Config"
@@ -55,8 +55,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService/PaymentService.csproj": {
-              "projectPath": "/Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService/PaymentService.csproj"
+            "/Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService/PaymentService.csproj": {
+              "projectPath": "/Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService/PaymentService.csproj"
             }
           }
         }

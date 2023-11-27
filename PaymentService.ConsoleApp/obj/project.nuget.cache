@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F+k7/eQ9EGl0xpsIkSKcyNMkdHvmnWuYWTnQZj8peq883N+v+GMPwHD+yl9n8wKx+YYmVk5+OhfRzsZajdHmnQ==",
+  "dgSpecHash": "ByTKNkPuML2vCUQMrWCFbFVnphkuuk6VQxKh7QqE0m3YvIFa/IjtBkcVxLxXAmvaeEKg8uP/JLQLb+WUizLz/w==",
   "success": true,
-  "projectFilePath": "/Users/sidemac/Projects/OnlineBettingAbstractPayment/PaymentService.ConsoleApp/PaymentService.ConsoleApp.csproj",
+  "projectFilePath": "/Users/sidemac/Projects/GitHub/AbstractPaymentSystem/PaymentService.ConsoleApp/PaymentService.ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
