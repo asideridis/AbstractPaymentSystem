@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a .NET Core application for handling payment processing. It showcases the use of various design patterns and best practices in software architecture to achieve a flexible, maintainable, and scalable solution.
+This project demonstrates a .NET application for handling payment processing. It showcases the use of various design patterns and best practices in software architecture to achieve a flexible, maintainable, and scalable solution.
 
 ## Key Features
 
