@@ -1,5 +1,6 @@
 ﻿namespace PaymentService.Strategies;
 
+//Naming convention: <PaymentMethod>Payment
 public class BankTransferPayment :PaymentMethodBase
 {
     protected override void ProcessPaymentCore(decimal amount)

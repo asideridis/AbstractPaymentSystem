@@ -6,17 +6,16 @@ public class PaymentMethodFactory
 {
     public IPaymentStrategy GetPaymentMethod(PaymentMethod methodType)
     {
-        switch (methodType)
+        string className = $"{methodType}Payment";
+        string namespaceName = "PaymentService.Strategies";
+        
+        Type paymentType = Type.GetType($"{namespaceName}.{className}");
+        
+        if (paymentType == null)
         {
-            case PaymentMethod.CreditCard:
-                return new CreditCardPayment();
-            case PaymentMethod.PayPal:
-                return new PayPalPayment();
-            case PaymentMethod.BankTransfer:
-                return new BankTransferPayment();
-            // Additional payment methods
-            default:
-                throw new NotImplementedException("No payment method implemented for this type.");
+            throw new NotImplementedException("No payment method implemented for this type.");
         }
+        
+        return (IPaymentStrategy)Activator.CreateInstance(paymentType);
     }
 }
